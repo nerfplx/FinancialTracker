@@ -1,0 +1,152 @@
+/* Tabs */
+"tab_today" = "Сегодня";
+"tab_analytics" = "Аналитика";
+"tab_add" = "Добавить";
+"tab_history" = "История";
+"tab_settings" = "Настройки";
+
+/* Navigation titles */
+"title_dashboard" = "Сегодня";
+"title_analytics" = "Аналитика";
+"title_add_expense" = "Добавить трату";
+"title_history" = "История";
+"title_settings" = "Настройки";
+"title_edit_expense" = "Редактировать трату";
+
+/* Common */
+"common_cancel" = "Отмена";
+"common_save" = "Сохранить";
+"common_delete" = "Удалить";
+"common_reset" = "Сбросить";
+"common_all" = "Все";
+"common_empty_note" = "Без комментария";
+
+/* Onboarding */
+"onb_title_budget" = "Настроим стартовый бюджет";
+"onb_title_goal" = "Выбери режим ведения расходов";
+"onb_income_label" = "Доход в месяц";
+"onb_income_placeholder" = "Например: 2500";
+"onb_next" = "Далее";
+"onb_start" = "Начать";
+"onb_hint" = "Онбординг показывается только при первом запуске. В настройках можно запустить его снова.";
+
+/* Goals */
+"goal_save_more" = "Накопить";
+"goal_control" = "Держать под контролем";
+"goal_save_more_desc" = "Фокус на росте накоплений и более жестком ограничении трат.";
+"goal_control_desc" = "Фокус на дисциплине расходов и предупреждении импульсивных покупок.";
+
+/* Categories */
+"category_food" = "Еда";
+"category_transport" = "Транспорт";
+"category_shopping" = "Шопинг";
+"category_entertainment" = "Развлечения";
+"category_health" = "Здоровье";
+"category_subscriptions" = "Подписки";
+
+/* Dashboard */
+"dash_section_today_expenses" = "Траты за сегодня";
+"dash_no_expenses" = "Сегодня пока нет трат.";
+"dash_month" = "Месяц";
+"dash_days_left_fmt" = "%d дн. осталось";
+"dash_daily_limit" = "Дневной лимит";
+"dash_overrun_fmt" = "Ты потратил на %d%% больше дневной нормы";
+"dash_impulse_spent_fmt" = "Импульсивные траты: %@";
+"dash_menu_edit" = "Редактировать";
+"dash_menu_delete" = "Удалить";
+
+/* Add expense */
+"add_amount" = "Сумма";
+"add_category" = "Категория";
+"add_note" = "Комментарий";
+"add_impulse_toggle" = "Импульсивная покупка";
+"add_ai_title" = "AI-анализ";
+"add_save" = "Сохранить трату";
+
+/* Edit expense */
+"edit_amount" = "Сумма";
+"edit_category" = "Категория";
+"edit_note" = "Комментарий";
+"edit_impulse_toggle" = "Импульсивная покупка";
+
+/* Analytics */
+"analytics_period" = "Период";
+"analytics_week" = "Неделя";
+"analytics_month" = "Месяц";
+"analytics_year" = "Год";
+"analytics_empty_title" = "Пока нет данных";
+"analytics_empty_subtitle" = "Добавьте первую трату, и здесь появится аналитика";
+"analytics_period_year_fmt" = "%d • %d операции";
+"analytics_period_month_fmt" = "%@ • %d операции";
+"analytics_period_week_fallback_fmt" = "Неделя • %d операции";
+"analytics_period_week_fmt" = "%@ - %@ • %d операции";
+"analytics_total_title" = "Итого за период";
+"analytics_limit_week_fmt" = "%d%% от недельного лимита";
+"analytics_limit_month_fmt" = "%d%% от месячного лимита";
+"analytics_limit_year_fmt" = "%d%% от годового лимита";
+"analytics_categories" = "Категории";
+"analytics_impulse_title" = "Импульсивные покупки";
+"analytics_impulse_value_fmt" = "%d на %@";
+"analytics_insights" = "Инсайты";
+"analytics_insight_most_frequent" = "Самая частая категория";
+"analytics_insight_most_expensive" = "Самая дорогая категория";
+"analytics_insight_avg_per_day" = "Средняя трата в день";
+"analytics_insight_impulse_share" = "Доля импульсивных";
+"analytics_chart_week" = "Траты по дням недели";
+"analytics_chart_month" = "Траты по неделям месяца";
+"analytics_chart_year" = "Траты по месяцам";
+"analytics_week_short_fmt" = "%d нед";
+
+/* History */
+"history_period" = "Период";
+"history_day" = "День";
+"history_week" = "Неделя";
+"history_month" = "Месяц";
+"history_total" = "Итого за период";
+"history_only_impulse" = "Только импульсивные";
+"history_empty_day_fmt" = "Нет трат за %@";
+"history_empty_week" = "эту неделю";
+
+/* Settings */
+"settings_income_section" = "Доход";
+"settings_income_field" = "Месячный доход";
+"settings_recalc_toggle" = "Пересчитать лимит автоматически";
+"settings_recommended_fmt" = "Рекомендуемый лимит: %@";
+"settings_limits_section" = "Лимиты";
+"settings_monthly_limit_field" = "Месячный лимит";
+"settings_daily_manual_toggle" = "Дневной лимит вручную";
+"settings_daily_limit_field" = "Дневной лимит";
+"settings_daily_limit_value_fmt" = "Дневной лимит: %@";
+"settings_currency_section" = "Валюта";
+"settings_currency_picker" = "Валюта";
+"settings_notifications_section" = "Уведомления";
+"settings_notify_overrun" = "При превышении дневного лимита";
+"settings_notify_summary" = "Ежедневный итог в 21:00";
+"settings_notify_impulse" = "При импульсивной покупке";
+"settings_onboarding_section" = "Онбординг";
+"settings_reset_onboarding" = "Пройти онбординг снова";
+"settings_data_section" = "Данные";
+"settings_delete_all" = "Удалить все траты";
+"settings_confirm_reset" = "Сбросить онбординг?";
+"settings_confirm_delete" = "Удалить все траты?";
+"settings_validation_month_min_fmt" = "Минимальный лимит — 100%@";
+"settings_validation_limit_over_income" = "Лимит превышает доход";
+"settings_validation_day_min_fmt" = "Минимальный дневной лимит — 10%@";
+"settings_language_section" = "Язык";
+"settings_language_picker" = "Язык";
+
+/* Advisor */
+"advisor_no_limit" = "Дневной лимит не установлен.";
+"advisor_large_purchase" = "Покупка крупная для одного дня. Ты точно хочешь сделать ее сейчас?";
+"advisor_already_today_fmt" = "Сегодня в этой категории уже было %@. После покупки перерасход будет +%d%%.";
+"advisor_over_limit_fmt" = "После этой покупки ты выйдешь за дневной лимит примерно на %d%%.";
+"advisor_ok" = "Трата вписывается в план. Проверь: покупка действительно нужна?";
+
+/* Notifications */
+"notif_daily_summary_title" = "Итоги дня";
+"notif_daily_summary_body" = "Проверь дневную статистику расходов в Smart Spend Tracker.";
+"notif_overrun_title" = "Лимит превышен";
+"notif_overrun_body" = "Сегодняшние траты вышли за дневной лимит.";
+"notif_impulse_title" = "Импульсивная трата";
+"notif_impulse_body" = "Покупка отмечена как импульсивная. Проверь бюджет.";
+

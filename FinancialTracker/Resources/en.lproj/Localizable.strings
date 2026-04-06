@@ -1,0 +1,152 @@
+/* Tabs */
+"tab_today" = "Today";
+"tab_analytics" = "Analytics";
+"tab_add" = "Add";
+"tab_history" = "History";
+"tab_settings" = "Settings";
+
+/* Navigation titles */
+"title_dashboard" = "Today";
+"title_analytics" = "Analytics";
+"title_add_expense" = "Add expense";
+"title_history" = "History";
+"title_settings" = "Settings";
+"title_edit_expense" = "Edit expense";
+
+/* Common */
+"common_cancel" = "Cancel";
+"common_save" = "Save";
+"common_delete" = "Delete";
+"common_reset" = "Reset";
+"common_all" = "All";
+"common_empty_note" = "No note";
+
+/* Onboarding */
+"onb_title_budget" = "Let's set up your budget";
+"onb_title_goal" = "Choose a spending mode";
+"onb_income_label" = "Monthly income";
+"onb_income_placeholder" = "Example: 2500";
+"onb_next" = "Next";
+"onb_start" = "Start";
+"onb_hint" = "Onboarding is shown only on first launch. You can run it again in Settings.";
+
+/* Goals */
+"goal_save_more" = "Save more";
+"goal_control" = "Stay in control";
+"goal_save_more_desc" = "Focus on growing savings with tighter spending limits.";
+"goal_control_desc" = "Focus on spending discipline and avoiding impulsive purchases.";
+
+/* Categories */
+"category_food" = "Food";
+"category_transport" = "Transport";
+"category_shopping" = "Shopping";
+"category_entertainment" = "Entertainment";
+"category_health" = "Health";
+"category_subscriptions" = "Subscriptions";
+
+/* Dashboard */
+"dash_section_today_expenses" = "Today's expenses";
+"dash_no_expenses" = "No expenses yet today.";
+"dash_month" = "Month";
+"dash_days_left_fmt" = "%d days left";
+"dash_daily_limit" = "Daily limit";
+"dash_overrun_fmt" = "You spent %d%% over your daily limit";
+"dash_impulse_spent_fmt" = "Impulsive spending: %@";
+"dash_menu_edit" = "Edit";
+"dash_menu_delete" = "Delete";
+
+/* Add expense */
+"add_amount" = "Amount";
+"add_category" = "Category";
+"add_note" = "Note";
+"add_impulse_toggle" = "Impulsive purchase";
+"add_ai_title" = "AI analysis";
+"add_save" = "Save expense";
+
+/* Edit expense */
+"edit_amount" = "Amount";
+"edit_category" = "Category";
+"edit_note" = "Note";
+"edit_impulse_toggle" = "Impulsive purchase";
+
+/* Analytics */
+"analytics_period" = "Period";
+"analytics_week" = "Week";
+"analytics_month" = "Month";
+"analytics_year" = "Year";
+"analytics_empty_title" = "No data yet";
+"analytics_empty_subtitle" = "Add your first expense and analytics will appear here";
+"analytics_period_year_fmt" = "%d • %d records";
+"analytics_period_month_fmt" = "%@ • %d records";
+"analytics_period_week_fallback_fmt" = "Week • %d records";
+"analytics_period_week_fmt" = "%@ - %@ • %d records";
+"analytics_total_title" = "Total for period";
+"analytics_limit_week_fmt" = "%d%% of weekly limit";
+"analytics_limit_month_fmt" = "%d%% of monthly limit";
+"analytics_limit_year_fmt" = "%d%% of yearly limit";
+"analytics_categories" = "Categories";
+"analytics_impulse_title" = "Impulsive purchases";
+"analytics_impulse_value_fmt" = "%d for %@";
+"analytics_insights" = "Insights";
+"analytics_insight_most_frequent" = "Most frequent category";
+"analytics_insight_most_expensive" = "Most expensive category";
+"analytics_insight_avg_per_day" = "Average per day";
+"analytics_insight_impulse_share" = "Impulse share";
+"analytics_chart_week" = "Spending by weekday";
+"analytics_chart_month" = "Spending by weeks";
+"analytics_chart_year" = "Spending by months";
+"analytics_week_short_fmt" = "%d wk";
+
+/* History */
+"history_period" = "Period";
+"history_day" = "Day";
+"history_week" = "Week";
+"history_month" = "Month";
+"history_total" = "Total for period";
+"history_only_impulse" = "Impulsive only";
+"history_empty_day_fmt" = "No expenses for %@";
+"history_empty_week" = "this week";
+
+/* Settings */
+"settings_income_section" = "Income";
+"settings_income_field" = "Monthly income";
+"settings_recalc_toggle" = "Recalculate limit automatically";
+"settings_recommended_fmt" = "Recommended limit: %@";
+"settings_limits_section" = "Limits";
+"settings_monthly_limit_field" = "Monthly limit";
+"settings_daily_manual_toggle" = "Manual daily limit";
+"settings_daily_limit_field" = "Daily limit";
+"settings_daily_limit_value_fmt" = "Daily limit: %@";
+"settings_currency_section" = "Currency";
+"settings_currency_picker" = "Currency";
+"settings_notifications_section" = "Notifications";
+"settings_notify_overrun" = "When daily limit is exceeded";
+"settings_notify_summary" = "Daily summary at 21:00";
+"settings_notify_impulse" = "On impulsive purchase";
+"settings_onboarding_section" = "Onboarding";
+"settings_reset_onboarding" = "Run onboarding again";
+"settings_data_section" = "Data";
+"settings_delete_all" = "Delete all expenses";
+"settings_confirm_reset" = "Reset onboarding?";
+"settings_confirm_delete" = "Delete all expenses?";
+"settings_validation_month_min_fmt" = "Minimum monthly limit is 100%@";
+"settings_validation_limit_over_income" = "Limit exceeds income";
+"settings_validation_day_min_fmt" = "Minimum daily limit is 10%@";
+"settings_language_section" = "Language";
+"settings_language_picker" = "Language";
+
+/* Advisor */
+"advisor_no_limit" = "Daily limit is not set.";
+"advisor_large_purchase" = "This is a large purchase for one day. Are you sure you want it now?";
+"advisor_already_today_fmt" = "You've already spent %@ in this category today. After this purchase, overrun will be +%d%%.";
+"advisor_over_limit_fmt" = "After this purchase you'll exceed your daily limit by about %d%%.";
+"advisor_ok" = "Fits the plan. Check if you really need it.";
+
+/* Notifications */
+"notif_daily_summary_title" = "Daily summary";
+"notif_daily_summary_body" = "Check your daily spending stats in Smart Spend Tracker.";
+"notif_overrun_title" = "Limit exceeded";
+"notif_overrun_body" = "Today's spending exceeded your daily limit.";
+"notif_impulse_title" = "Impulsive purchase";
+"notif_impulse_body" = "This purchase is marked as impulsive. Review your budget.";
+
